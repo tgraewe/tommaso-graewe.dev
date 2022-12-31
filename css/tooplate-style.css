@@ -86,7 +86,7 @@ b, strong {
   color: #ffc200;
 }
 .custom-btn.custom-btn-bg {
-  background: #474559;
+  background: #2c3e50;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
@@ -323,7 +323,7 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #474559;
+  background: #2c3e50;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -331,7 +331,7 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #474559;
+  background: #2c3e50;
   border-radius: 100%;
   position: absolute;
   width: 75px;
@@ -354,7 +354,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #474559;
+  color: #2c3e50;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -438,11 +438,11 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #474559;
+  background: #2c3e50;
 }
 
 .contact-info {
-  background: #474559;
+  background: #2c3e50;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
