@@ -86,7 +86,7 @@ b, strong {
   color: #ffc200;
 }
 .custom-btn.custom-btn-bg {
-  background: #2c3e50;
+  background: #0c2461;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
@@ -297,7 +297,6 @@ b, strong {
   border-bottom: 1px solid #1f1f1f;
 }
 .dark-mode .small-text {
-  background: #0d0c15;
   color: #ffffff;
 }
 .dark-mode .feature-card .uil,
@@ -331,7 +330,7 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #2c3e50;
+  background: #0c2461;
   border-radius: 100%;
   position: absolute;
   width: 75px;
@@ -354,7 +353,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #2c3e50;
+  color: #0c2461;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -442,7 +441,7 @@ b, strong {
 }
 
 .contact-info {
-  background: #2c3e50;
+  background: #0c2461;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
