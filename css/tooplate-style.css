@@ -284,7 +284,7 @@ b, strong {
 /* DARK MODE */
 
 .dark-mode {
-  background: #0c0c0d;
+  background: #101010;
 }
 .dark-mode .navbar-light .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.8);
