@@ -31,7 +31,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  color: #2dc7ee !important;
 }
 
 .navbar-brand .uil {
@@ -83,14 +83,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #ffc200;
+  color: #2dc7ee;
 }
 .custom-btn.custom-btn-bg {
   background: #2d7aee;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #2dc7ee;
   color: #ffffff !important;
 }
 
@@ -266,6 +266,7 @@ b, strong {
 .color-mode-icon {
   position: relative;
   right: 6px;
+  
 }
 .color-mode-icon:after {
   font-family: 'unicons';
@@ -425,10 +426,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #2d7aee;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #2d7aee;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
@@ -437,7 +438,7 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #2c3e50;
+  background: #2dc7ee;
 }
 
 .contact-info {
@@ -457,7 +458,7 @@ b, strong {
   margin: 5px 0;
 }
 .social-links .uil:hover {
-  color: #ffc200;
+  color: #0b51b9;
 }
 
 @media (min-width: 1270px) {
