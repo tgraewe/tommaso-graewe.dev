@@ -86,7 +86,7 @@ b, strong {
   color: #ffc200;
 }
 .custom-btn.custom-btn-bg {
-  background: #0c2461;
+  background: #2d7aee;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
@@ -107,7 +107,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #2d7aee;
   min-width: 500px;
 }
 
@@ -322,7 +322,7 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #2c3e50;
+  background: #2d7aee;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -330,7 +330,7 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #0c2461;
+  background: #2d7aee;
   border-radius: 100%;
   position: absolute;
   width: 75px;
@@ -353,7 +353,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #0c2461;
+  color: #2d7aee;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -441,7 +441,7 @@ b, strong {
 }
 
 .contact-info {
-  background: #0c2461;
+  background: #2d7aee;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
