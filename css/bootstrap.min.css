@@ -48,7 +48,7 @@ article,
 aside,
 figcaption,
 figure,
-footer,
+/*footer,*/
 header,
 hgroup,
 main,
@@ -83,6 +83,12 @@ h6 {
  margin-top:0;
  margin-bottom:.5rem
 }
+footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #101010#; /* Add your preferred background color */
+  }
+  
 p {
  margin-top:0;
  margin-bottom:1rem
