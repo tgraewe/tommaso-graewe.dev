@@ -470,7 +470,8 @@ b, strong {
     bottom: 50px;
   }
 }
-/* Add the media query for smaller screens */
+
+/* Add the media query for smaller screens 
 @media (max-width: 767px) {
   .animated-info {
     display: block;
@@ -481,17 +482,15 @@ b, strong {
     margin-bottom: 10px;
   }
 
-  /* Adjust the inline margin for smaller screens */
   .animated-text .d-inline {
     margin-right: 0; 
   }
 
-  /* Adjust the font size for smaller screens */
   .animated-text h1 {
     font-size: 24px; 
   }
 }
-
+*/
 @media (max-width: 991px) {
   .full-screen {
     padding-bottom: 4rem;
@@ -588,4 +587,5 @@ b, strong {
     display: inline-block;
     vertical-align: top;
   }
+  
 }
