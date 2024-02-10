@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm TOMMASO</h1>
 <h3 align="center">An invigorated frontend developer from Columbus, Ohio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgraewe&label=Profile%20views&color=0e75b6&style=flat" alt="tgraewe" /> </p>
