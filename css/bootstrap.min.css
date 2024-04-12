@@ -3777,6 +3777,9 @@ input[type=submit].btn-block {
  border-top-left-radius:0;
  border-top-right-radius:0
 }
+.nav-tabs{
+  font-size: 444px;
+}
 .nav-pills .nav-link {
  border-radius:.25rem
 }
